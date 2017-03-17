@@ -1,0 +1,24 @@
+{
+  "name": "queued-flux",
+  "version": "1.0.0",
+  "description": "Flux extension with queue on top of action dispatcher",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaguardev/node-queued-flux.git"
+  },
+  "keywords": [
+    "flux",
+	"dispatcher",
+	"queue"
+  ],
+  "dependencies": {
+    "runner-runner-collection": "^1.0.1"
+},
+  "author": "Vlad Chernikov <vlad.chernikov@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jaguardev/node-queued-flux/issues"
+  },
+  "homepage": "https://github.com/jaguardev/node-queued-flux#readme"
+}
